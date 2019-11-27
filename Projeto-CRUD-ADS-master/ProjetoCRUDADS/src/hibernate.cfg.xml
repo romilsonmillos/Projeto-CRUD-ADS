@@ -13,8 +13,8 @@
         <property name="format_sql">true</property>
         <property name="generate_statistics">true</property>
         <property name="use_sql_coments">true</property>
-        <property name="hibernate.hbm2ddl.auto">update</property>
-        <mapping class="usuario.Usuario"/>
+        <property name="hibernate.hbm2ddl.auto">upda                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      te</property>
+        <mapping class="univs.edu.usuario.Usuario"/>
         
         
     </session-factory>
